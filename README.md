@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile is a work in progress. I am currently working on my portfolio.
+
 <!--
 **DenFin/DenFin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
