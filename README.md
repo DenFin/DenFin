@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-This profile is a work in progress. I am currently working on my portfolio.
+Web Developer since 2014. Working with Typescript, Vue/Nuxt and Azure on a daily basis since 2022.
+
+🔭 Currently I am working on multiple personal web apps. The most important ones to me are [plantz](https://github.com/DenFin/plantz.app) which helps me to keep track of my – you guessed it – plants. The other one is invoi which helps me to generate beautiful invoice PDFs. 
+🌱 In my homelab, I experiment with technologies like Linux and Docker. I general I want to get more into system design.
+🔄 This profile is still work in progress.
 
 <!--
 **DenFin/DenFin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
